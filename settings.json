@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BaconBot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "BaconBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "thebaconsmps.aternos.me:53815",
+    "port": 53815,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Did you know? While this server is a aternos server its always on!",
+        "Subscribe to CoolBacon109!",
+        "Want to suggest new changes? Join the Discord Server!"
       ]
     },
     "chat-log": true,
