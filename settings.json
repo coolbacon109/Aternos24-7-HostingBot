@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thebaconsmps.aternos.me:53815",
+    "ip": "thebaconsmps.aternos.me",
     "port": 53815,
     "version": "",
     "try-creative": false
