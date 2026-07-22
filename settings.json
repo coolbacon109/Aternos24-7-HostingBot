@@ -1,14 +1,14 @@
 {
   "name": "BaconBot",
   "bot-account": {
-    "username": "BaconBot",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "thebaconsmps.aternos.me",
     "port": 53815,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
